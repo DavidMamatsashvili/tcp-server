@@ -5,9 +5,9 @@ A simple multi-threaded TCP chat server and client implementation using **POSIX 
 
 ### Compile the server
 ```bash
-    gcc server.c -o server -pthread
+gcc server.c -o server -pthread
 ```
 ### Compile the client
 ```bash
-    gcc client.c -o client -pthread
+gcc client.c -o client -pthread
 ```
